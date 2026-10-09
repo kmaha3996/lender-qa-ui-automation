@@ -1,0 +1,19 @@
+node_modules/
+.env
+.env.*
+test-results/
+playwright-report/
+.DS_Store
+*.log
+*.tmp
+__MACOSX/
+automation/recordings/
+screenshots/
+
+# Robot Framework
+robot/env/
+robot/results/
+robot/__pycache__/
+robot/**/__pycache__/
+robot/**/*.pyc
+*.pyc
